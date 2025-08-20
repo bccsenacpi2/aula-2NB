@@ -1,6 +1,9 @@
 # aula-2NB
 
 ### Conceitos novos
-xxx
 
+xxx
 adicionando personagem
+
+movimentacao
+adicionando texto
