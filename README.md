@@ -2,3 +2,5 @@
 
 ### Conceitos novos
 xxx
+
+adicionando personagem
